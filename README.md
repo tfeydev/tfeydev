@@ -1,16 +1,20 @@
-## Hi there 👋
+# 👋 Hi, I'm Thorsten Fey
 
-<!--
-**tfeydev/tfeydev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Currently learning Java & Spring Boot via Chad Darby's Udemy courses  
+💡 Interested in Backend Development, REST APIs, and Full Stack Apps  
+🌱 Working on: From Java Fundamentals to Spring Boot Professional  
+📚 Courses I'm taking:
+- Java Programming for Beginners (Udemy)
+- Spring Boot 3 REST APIs with Spring Security (Udemy)
+- Full Stack Spring Boot 3 + JWT + React (Udemy)
 
-Here are some ideas to get you started:
+📌 My Course Repositories:
+- 🔗 [fromJava2SpringBoot](https://github.com/tfeydev/fromJava2SpringBoot)
+- 🔗 [spring-boot-rest-api](https://github.com/...)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🛠️ Tech Stack:
+`Java` `Spring Boot` `Maven` `React` `PostgreSQL` `Docker` `Linux`
+
+---
+
+
