@@ -10,7 +10,7 @@
 
 📌 My Course Repositories:
 - 🔗 [fromJava2SpringBoot](https://github.com/tfeydev/fromJava2SpringBoot)
-- 🔗 [spring-boot-rest-api](https://github.com/...)
+
 
 🛠️ Tech Stack:
 `Java` `Spring Boot` `Maven` `React` `PostgreSQL` `Docker` `Linux`
