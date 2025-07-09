@@ -13,7 +13,7 @@
 
 
 🛠️ Tech Stack:
-`Java` `Spring Boot` `Maven` `React` `PostgreSQL` `Docker` `Linux`
+`Java` `Spring Boot` `Maven` `Angular``React` `PostgreSQL` `Docker` `Linux`
 
 ---
 
