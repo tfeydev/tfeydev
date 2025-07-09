@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Thorsten Fey
+# 👋 Hi, I'm Thorsten
 
 🎓 Currently learning Java & Spring Boot via Chad Darby's Udemy courses  
 💡 Interested in Backend Development, REST APIs, and Full Stack Apps  
