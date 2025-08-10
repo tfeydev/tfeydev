@@ -11,7 +11,7 @@
 
 📌 My Course Repositories:
 - 🔗 [fromJava2SpringBoot](https://github.com/tfeydev/fromJava2SpringBoot)  
-- 🔗 [JavaMasterClass](https://github.com/tfeydev/JavaMasterClass)
+- 🔗 
 
 🛠️ Tech Stack:
 `Java` `Spring Boot` `Maven` `React` `Angular` `PostgreSQL` `Docker` `Linux`
