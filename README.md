@@ -1,28 +1,28 @@
 # 👋 Welcome
 
-🎓 Currently learning Java and Spring Boot through Chad Darby's Udemy courses. I've completed initial modules on Java fundamentals, including variables, loops, and object-oriented programming, and am now applying these to build simple backend applications.
+I'm learning Java, Spring Boot, and Linux system administration, focusing on practical applications with Oracle Cloud Infrastructure (OCI) Always Free tier and RHEL 10 in a dual-boot setup. My work includes setting up RHEL images on OCI and testing Java connections to OCI APIs.
 
-💡 Interests: Backend development, REST APIs, full-stack applications. I've explored how these integrate with cloud services like OCI for deployment.
+💡 **Interests**: Backend development, REST APIs, cloud integration, and Linux sysadmin tasks.
 
-🌱 Goal: Progress from Java fundamentals to building professional Spring Boot applications. So far, I've set up development environments with Maven and tested basic connections to cloud APIs.
+🌱 **Goal**: Progress from Java fundamentals to professional Spring Boot applications, while mastering RHEL and OCI deployments.
 
 ## 📚 Courses in Progress
 
-* Java Programming for Beginners (Udemy) - Focused on core syntax, data structures, and error handling; practiced with simple console apps.
-* Java Masterclass – Become a Java Developer (Udemy) - Covered advanced topics like multithreading and file I/O; built small projects to test concepts.
-* Spring Boot 3, Spring 6 & Hibernate for Beginners (Udemy) - Learning dependency injection, REST controllers, and database integration; configured initial Spring Boot apps locally.
+- **Java Programming for Beginners (Udemy)**: Learned core concepts like variables, loops, and classes; built simple console applications to practice.
+- **Java Masterclass – Become a Java Developer (Udemy)**: Explored object-oriented programming and Maven; created small projects to test concepts.
+- **Spring Boot 3, Spring 6 & Hibernate for Beginners (Udemy)**: Started with basic Spring Boot apps, focusing on dependency injection and REST endpoints.
 
 ## 🛠️ Tech Stack
 
-`Java` `Spring Boot` `Maven` `React` `Angular` `PostgreSQL` `Docker` `RHEL 10 Linux`
+`Java` `Spring Boot` `Maven` `React` `Angular` `PostgreSQL` `Podman` `RHEL 10 Linux`
 
-I've used these in practice: Set up Maven for project builds, Docker for containerization tests, and RHEL 10 for local development in a dual-boot environment.
+I've used Maven for Java project builds, RHEL 10 for local development, and OCI for cloud deployments.
 
 ## 📂 Project Overview
 
-This repository serves as a central workspace linking to related projects, utilities, and documentation. It documents my learning progress in Java, OCI integration, and Linux sysadmin tasks. Key linked repos include:
-- [code](https://github.com/tfeydev/code): Documentation for RHEL/OCI deployments and scripts.
-- [ConnectionTestOciJavaSdk](https://github.com/tfeydev/ConnectionTestOciJavaSdk): A Maven-based Java project testing OCI SDK connections.
+My repositories document hands-on learning:
+- [code](https://github.com/tfeydev/code): Guides for RHEL image deployment on OCI and a structure for Linux/Bash/Podman experiments.
+- [ConnectionTestOciJavaSdk](https://github.com/tfeydev/ConnectionTestOciJavaSdk): A Java project to test OCI SDK connections using Maven.
 
 📎 LinkedIn: [linkedin.com/in/thorstenfey](https://linkedin.com/in/thorstenfey)
 
