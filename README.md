@@ -1,29 +1,31 @@
-# 👋 Welcome
+# 👋 Welcome to my Development Space
 
-I'm learning Java, Spring Boot, and Linux system administration, focusing on practical applications with Oracle Cloud Infrastructure (OCI) Always Free tier and RHEL 10 in a dual-boot setup. My work includes setting up RHEL images on OCI and testing Java connections to OCI APIs.
+I'm focused on high-performance backend development and systems programming, specializing in **Rust** and **Julia** for data-intensive and algorithmic tasks. My current goal is to migrate parts of my existing Java/Spring Boot backend logic to Rust to leverage its performance and memory safety.
 
-💡 **Interests**: Backend development, REST APIs, cloud integration, and Linux sysadmin tasks.
+💡 **Current Focus**: Mastering Rust (using "the book") and Julia (using CLRS and "Algorithms with Julia") to build fast, robust backend services. I also pursue frontend development with **React/Vite** and **Tailwind CSS v4+**.
 
-🌱 **Goal**: Progress from Java fundamentals to professional Spring Boot applications, while mastering RHEL and OCI deployments.
+🌱 **Goal**: Transition from traditional Java/Spring Boot setups to a modern, high-performance stack utilizing Rust and Julia for compute-heavy workloads, while maintaining robust Linux system administration skills on Fedora and RHEL.
 
-## 📚 Courses in Progress
+## 🛠️ Core Tech Stack & Projects
 
-- **Java Programming for Beginners (Udemy)**: Learned core concepts like variables, loops, and classes; built simple console applications to practice.
-- **Java Masterclass – Become a Java Developer (Udemy)**: Explored object-oriented programming and Maven; created small projects to test concepts.
-- **Spring Boot 3, Spring 6 & Hibernate for Beginners (Udemy)**: Started with basic Spring Boot apps, focusing on dependency injection and REST endpoints.
-
-## 🛠️ Tech Stack
-
-`Java` `Spring Boot` `Maven` `React` `Angular` `PostgreSQL` `Podman` `RHEL 10 Linux`
-
-I've used Maven for Java project builds, RHEL 10 for local development, and OCI for cloud deployments.
+| Category | Technologies | Purpose |
+| :--- | :--- | :--- |
+| **Backend & Performance** | `Rust` `Julia` `Spring Boot` `Java` | Migrating services and developing high-performance algorithms (CLRS implementation). |
+| **Frontend** | `React` `Vite` `Tailwind CSS v4+` | Learning and implementing modern, component-based UIs. |
+| **System & Cloud** | `Fedora Linux` `RHEL 10 Linux` `Podman` `OCI` | Local development, system administration, and cloud deployments. |
+| **Databases** | `PostgreSQL` | Standard data persistence layer. |
 
 ## 📂 Project Overview
 
-My repositories document hands-on learning:
-- [code](https://github.com/tfeydev/code): Guides for RHEL image deployment on OCI and a structure for Linux/Bash/Podman experiments.
-- [ConnectionTestOciJavaSdk](https://github.com/tfeydev/ConnectionTestOciJavaSdk): A Java project to test OCI SDK connections using Maven.
+My repositories document hands-on learning and migration efforts:
+- [leetcode](https://github.com/tfeydev/leetcode): Contains my well-documented Rust solutions for algorithmic problems (like Two Sum), following best practices for module and test structure.
+- [clrs](https://github.com/tfeydev/clrs): Implementing algorithms and data structures from *Introduction to Algorithms* (CLRS) in Rust and Julia.
+- [todo_api](https://github.com/tfeydev/todo_api): Demonstrates my initial backend work, currently being analyzed for potential migration to Rust.
+- [ConnectionTestOciJavaSdk](https://github.com/tfeydev/ConnectionTestOciJavaSdk): Legacy Java project testing OCI SDK connectivity, marking my starting point for migration studies.
 
-📎 LinkedIn: [linkedin.com/in/thorstenfey](https://linkedin.com/in/thorstenfey)
+***
 
-📂 GitHub Profile: [github.com/tfeydev](https://github.com/tfeydev)
+### 🔗 Connect
+
+* 📂 GitHub Profile: [github.com/tfeydev](https://github.com/tfeydev)
+* 📎 LinkedIn: [linkedin.com/in/thorstenfey](https://linkedin.com/in/thorstenfey)
