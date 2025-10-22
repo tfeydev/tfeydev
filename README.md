@@ -13,7 +13,7 @@ I'm focused on high-performance backend development and systems programming, spe
 | **Backend & Performance** | `Rust` `Julia` `Spring Boot` `Java` | Migrating services and developing high-performance algorithms (CLRS implementation). |
 | **Frontend** | `React` `Vite` `Tailwind CSS v4+` | Learning and implementing modern, component-based UIs. |
 | **System & Cloud** | `Fedora Linux` `RHEL 10 Linux` `Podman` `OCI` | Local development, system administration, and cloud deployments. |
-| **Databases** | `PostgreSQL` | Standard data persistence layer. |
+| **Databases** | `PostgreSQL` `Apache AGE` | Standard data persistence layer. |
 
 ## 📂 Project Overview
 
