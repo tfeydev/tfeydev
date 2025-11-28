@@ -22,22 +22,35 @@ All code from my videos is available here on GitHub.
 
 ## 📂 Main Projects
 
-### 🔸 Fullstack Starter (Java + Spring Boot + Angular + Docker)
-A modern, production-ready template including backend, frontend, PostgreSQL, and full docker-compose orchestration.  
-➡️ _Used throughout my Instagram coding journey (Days 1–100)._  
-👉 **(Repo soon · link will be inserted here)**
+## 📂 Main Projects
 
----
-
-### 🔸 LeetCode – Java & Spring Exercises  
-Daily problem-solving to strengthen **logic**, **clean code**, and **unit testing**.  
+### 🔸 LeetCode – Java & PostgreSQL
+Daily problem-solving with Java and PostgreSQL, including a local PostgreSQL setup for LeetCode SQL problems.
 👉 https://github.com/tfeydev/leetcode
 
 ---
 
-### 🔸 Todo API (Legacy → Spring Boot Refactoring)  
-Refactoring a legacy Java backend into a clean, modular Spring Boot REST API.  
-👉 https://github.com/tfeydev/todo_api
+### 🔸 Book REST API Service (Udemy Project)
+Spring Boot 4 REST API (Java 25, Maven) with full CRUD for books, Docker multi-stage build and Docker Compose.
+👉 https://github.com/tfeydev/book-project-1
+
+---
+
+### 🔸 Spring Boot REST APIs – Angular 21 UI
+Modern Angular 21 dashboard that replaces Swagger UI from Chad Darby & Eric Roby’s Spring Boot REST API Udemy course.
+👉 https://github.com/tfeydev/spring-boot-apis-ui
+
+---
+
+### 🔸 Angular – The Complete Guide Workspace
+Angular 21 workspace following Maximilian Schwarzmüller’s “Angular – The Complete Guide” Udemy course.
+👉 https://github.com/tfeydev/angular-TheCompleteGuide-2025
+
+---
+
+### 🔸 From Java to Spring Boot – Full Learning Journey
+Big monorepo documenting your full learning path with Chad Darby’s Udemy courses (Java, Spring Boot, Angular, JWT, OAuth2, etc.).
+👉 https://github.com/tfeydev/fromJava2SpringBoot
 
 ---
 
