@@ -46,9 +46,9 @@ Angular 21 workspace following Maximilian Schwarzmüller’s “Angular – The 
 
 ---
 
-### 🔸 From Java to Spring Boot – Full Learning Journey
-Big monorepo documenting your full learning path with Chad Darby’s Udemy courses (Java, Spring Boot, Angular, JWT, OAuth2, etc.).
-👉 https://github.com/tfeydev/fromJava2SpringBoot
+### 🔸 Java Masterclass
+Java learning repository following Tim Buchalka’s “Java Masterclass 2025” course, including exercises, notes and small Java projects.
+👉 https://github.com/tfeydev/Java-Masterclass
 
 ---
 
