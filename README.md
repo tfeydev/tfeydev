@@ -22,8 +22,6 @@ All code from my videos is available here on GitHub.
 
 ## 📂 Main Projects
 
-## 📂 Main Projects
-
 ### 🔸 LeetCode – Java & PostgreSQL
 Daily problem-solving with Java and PostgreSQL, including a local PostgreSQL setup for LeetCode SQL problems.
 👉 https://github.com/tfeydev/leetcode
