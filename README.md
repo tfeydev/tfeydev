@@ -1,31 +1,72 @@
-# 👋 Welcome to my Development Space
+# 👋 Welcome to my Fullstack Development Space
 
-I'm focused on high-performance backend development and systems programming, specializing in **Rust** and **Julia** for data-intensive and algorithmic tasks. My current goal is to migrate parts of my existing Java/Spring Boot backend logic to Rust to leverage its performance and memory safety.
+I’m a fullstack developer focused on building **real-world, production-ready applications** using  
+**Java · Spring Boot · Angular · Docker · PostgreSQL**.
 
-💡 **Current Focus**: Mastering Rust (using "the book") and Julia (using CLRS and "Algorithms with Julia") to build fast, robust backend services. I also pursue frontend development with **React/Vite** and **Tailwind CSS v4+**.
+Currently, I’m documenting my complete journey on Instagram — from daily coding sessions to building full microservices and deploying them with Docker.  
+All code from my videos is available here on GitHub.
 
-🌱 **Goal**: Transition from traditional Java/Spring Boot setups to a modern, high-performance stack utilizing Rust and Julia for compute-heavy workloads, while maintaining robust Linux system administration skills on Fedora and RHEL.
+---
 
-## 🛠️ Core Tech Stack & Projects
+## 🚀 Main Tech Stack (Daily Use)
 
 | Category | Technologies | Purpose |
 | :--- | :--- | :--- |
-| **Backend & Performance** | `Rust` `Julia` `Spring Boot` `Java` | Migrating services and developing high-performance algorithms (CLRS implementation). |
-| **Frontend** | `React` `Vite` `Tailwind CSS v4+` | Learning and implementing modern, component-based UIs. |
-| **System & Cloud** | `Fedora Linux` `RHEL 10 Linux` `Podman` `OCI` | Local development, system administration, and cloud deployments. |
-| **Databases** | `PostgreSQL` `Apache AGE` | Standard data persistence layer. |
+| **Backend** | `Java 25` · `Spring Boot 3/4` · `Maven` | REST APIs, microservices, business logic |
+| **Frontend** | `Angular 18–20` · `TypeScript` · `Tailwind` | Modern SPA frontends |
+| **DevOps** | `Docker` · `Docker Compose` | Local + production deployments |
+| **Database** | `PostgreSQL` · `SQL` | Persistence, migrations, schemas |
+| **Tools** | `IntelliJ IDEA` · `VSCode` · `Fedora Linux` | My daily development environment |
 
-## 📂 Project Overview
+---
 
-My repositories document hands-on learning and migration efforts:
-- [leetcode](https://github.com/tfeydev/leetcode): Contains my well-documented Rust solutions for algorithmic problems (like Two Sum), following best practices for module and test structure.
-- [clrs](https://github.com/tfeydev/clrs): Implementing algorithms and data structures from *Introduction to Algorithms* (CLRS) in Rust and Julia.
-- [todo_api](https://github.com/tfeydev/todo_api): Demonstrates my initial backend work, currently being analyzed for potential migration to Rust.
-- [ConnectionTestOciJavaSdk](https://github.com/tfeydev/ConnectionTestOciJavaSdk): Legacy Java project testing OCI SDK connectivity, marking my starting point for migration studies.
+## 📂 Main Projects
 
-***
+### 🔸 Fullstack Starter (Java + Spring Boot + Angular + Docker)
+A modern and production-ready template with backend, frontend, DB, and docker-compose orchestration.  
+➡️ _Used in my Instagram coding journey (Days 1–100)._  
+👉 [Repo kommt / Link einfügen]
 
-### 🔗 Connect
+### 🔸 Leetcode Java & Spring Exercises  
+Daily problem-solving to strengthen logic, testing, clean code.  
+👉 https://github.com/tfeydev/leetcode
 
-* 📂 GitHub Profile: [github.com/tfeydev](https://github.com/tfeydev)
-* 📎 LinkedIn: [linkedin.com/in/thorstenfey](https://linkedin.com/in/thorstenfey)
+### 🔸 Todo API (Java → Spring Boot Refactoring)  
+Migrating legacy Java backend logic to modern Spring Boot REST structure.  
+👉 https://github.com/tfeydev/todo_api
+
+---
+
+# 💡 Want to Learn Java, Spring Boot, or Angular?
+
+These are **the exact courses I personally study and recommend**.  
+(When you buy through these links, I get a small commission — helps me create more code & videos ❤️)
+
+### 🟦 Java – „Complete Java Masterclass“  
+Instructor: **Tim Buchalka**  
+👉 **Affiliate-Link einfügen**
+
+### 🟦 Spring Boot – „Spring Boot & Spring Framework“  
+Instructor: **Chad Darby**  
+👉 **Affiliate-Link einfügen**
+
+### 🟩 Angular – „Angular – The Complete Guide (2024/2025)“  
+Instructor: **Maximilian Schwarzmüller**  
+👉 **Affiliate-Link einfügen**
+
+> 💸 **Warum das funktioniert:**  
+> Udemy zahlt dir Provision, wenn jemand einen Kurs über deinen Link kauft.  
+> Du musst NICHT verkaufen — du zeigst nur die Tools, die du ohnehin nutzt.
+
+---
+
+## 📱 Follow My Daily Coding Journey
+I post daily videos about Java, Spring Boot, Angular, Docker, PostgreSQL and real-world fullstack development.
+
+📸 Instagram → **[@thorsten_fey](https://instagram.com/thorsten_fey)**  
+🧑‍💻 GitHub → **github.com/tfeydev**  
+🔗 LinkedIn → **linkedin.com/in/thorstenfey**
+
+---
+
+### ⭐ If my projects help you, consider starring the repos — it supports my work!
