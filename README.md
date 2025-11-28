@@ -54,10 +54,6 @@ Instructor: **Chad Darby**
 Instructor: **Maximilian Schwarzmüller**  
 👉 **Affiliate-Link einfügen**
 
-> 💸 **Warum das funktioniert:**  
-> Udemy zahlt dir Provision, wenn jemand einen Kurs über deinen Link kauft.  
-> Du musst NICHT verkaufen — du zeigst nur die Tools, die du ohnehin nutzt.
-
 ---
 
 ## 📱 Follow My Daily Coding Journey
