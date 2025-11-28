@@ -59,15 +59,15 @@ These are **the exact courses I personally use every day** to level up.
 
 ### 🟦 Java — Complete Java Masterclass  
 Instructor: **Tim Buchalka**  
-👉 **Affiliate link (to be added)**
+👉 https://www.udemy.com/course/java-the-complete-java-developer-course
 
 ### 🟦 Spring Boot — Spring & Hibernate for Beginners  
 Instructor: **Chad Darby**  
-👉 **Affiliate link (to be added)**
+👉 https://www.udemy.com/course/spring-hibernate-tutorial
 
 ### 🟩 Angular — The Complete Guide  
 Instructor: **Maximilian Schwarzmüller**  
-👉 **Affiliate link (to be added)**
+👉 https://www.udemy.com/course/the-complete-guide-to-angular-2
 
 ---
 
