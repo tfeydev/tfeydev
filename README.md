@@ -48,7 +48,7 @@ Angular 21 workspace following Maximilian Schwarzmüller’s “Angular – The 
 
 ### 🔸 Java Masterclass
 Java learning repository following Tim Buchalka’s “Java Masterclass 2025” course, including exercises, notes and small Java projects.
-👉 https://github.com/tfeydev/Java-Masterclass
+👉 https://github.com/tfeydev/java-masterclass
 
 ---
 
