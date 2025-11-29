@@ -28,9 +28,9 @@ Daily problem-solving with Java and PostgreSQL, including a local PostgreSQL set
 
 ---
 
-### 🔸 Book REST API Service (Udemy Project)
-Spring Boot 4 REST API (Java 25, Maven) with full CRUD for books, Docker multi-stage build and Docker Compose.
-👉 https://github.com/tfeydev/book-project-1
+### 🔸 Spring Boot REST APIs (Udemy Project)
+Spring Boot REST APIs following from Chad Darby & Eric Roby’s Udemy course.
+👉 https://github.com/tfeydev/spring-boot-rest-apis
 
 ---
 
