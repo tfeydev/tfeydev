@@ -1,10 +1,17 @@
 # 👋 Welcome to my Fullstack Development Space
 
-I’m a fullstack developer focused on building **real-world, production-ready applications** using  
-**Java · Spring Boot · Angular · Docker · PostgreSQL**.
+I’m an IT professional transitioning into software development, combining years of technical support experience with hands-on training in backend, full-stack, and systems programming.
 
-I document my entire journey on Instagram — from daily coding sessions to building full microservices and deploying them with Docker.  
-All code from my videos is available here on GitHub.
+My current focus is on:
+
+- **Java & Spring Boot** (APIs, Microservices, Clean Architecture)
+- **Angular & TypeScript**
+- **PostgreSQL & Linux/Fedora**
+- **Rust for systems programming****
+- **Docker for containerization and deployment workflows**
+
+I document my learning journey and real projects on TechThorDev — including coding progress, exercises, clean code practices, and DevOps techniques.
+All code from my builds and videos is available here on GitHub.
 
 ---
 
