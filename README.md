@@ -91,7 +91,7 @@ Instructor: **Maximilian Schwarzmüller**
 
 I post daily videos about Java, Spring Boot, Angular, Docker, PostgreSQL, and real-world fullstack development.
 
-🌐 TechThorDev → **[techthor-polyglot]https://techthordev.github.io/techthor-polyglot-portal/**
+🌐 TechThorDev → **[techthor-polyglot](https://techthordev.github.io/techthor-polyglot-portal/**
 📸 Instagram → **[@thorsten_fey](https://instagram.com/thorsten_fey)**  
 🧑‍💻 GitHub → **https://github.com/tfeydev**  
 💼 LinkedIn → **https://linkedin.com/in/thorstenfey**
