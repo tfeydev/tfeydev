@@ -1,7 +1,7 @@
 # 👋 Welcome to my Fullstack Development Space
 
 I’m an IT professional transitioning into software development, combining years of technical support experience with hands-on training in backend, full-stack, and systems programming.
-My learning journey and real projects on **[TechhThor-Polyglot-Portal](https://techthordev.github.io/techthordev-techthor-polyglot-portal)** — including coding progress, exercises, clean code practices, and DevOps techniques.
+My learning journey and real projects on **[TechhThor-Polyglot-Portal](https://techthordev.github.io/techthor-polyglot-portal)** — including coding progress, exercises, clean code practices, and DevOps techniques.
 
 My current focus is on:
 
