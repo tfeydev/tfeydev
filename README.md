@@ -34,35 +34,35 @@ All code from my builds and videos is available here on GitHub.
 ### 🔸 LeetCode – Java & PostgreSQL
 Daily problem-solving with Java and PostgreSQL, including a local PostgreSQL setup for LeetCode SQL problems.
 
-👉 https://github.com/tfeydev/leetcode
+👉 https://github.com/techthordev/leetcode
 
 ---
 
 ### 🔸 Spring Boot REST APIs (Udemy Project)
 Spring Boot REST APIs following from Chad Darby & Eric Roby’s Udemy course.
 
-👉 https://github.com/tfeydev/spring-boot-rest-apis
+👉 https://github.com/techthordev/spring-boot-rest-apis
 
 ---
 
 ### 🔸 Spring Boot REST APIs – Angular 21 UI
 Modern Angular 21 dashboard that replaces Swagger UI from Chad Darby & Eric Roby’s Spring Boot REST API Udemy course.
 
-👉 https://github.com/tfeydev/spring-boot-apis-ui
+👉 https://github.com/techthordev/spring-boot-apis-ui
 
 ---
 
 ### 🔸 Angular – The Complete Guide Workspace
 Angular 21 workspace following Maximilian Schwarzmüller’s “Angular – The Complete Guide” Udemy course.
 
-👉 https://github.com/tfeydev/angular-TheCompleteGuide-2025
+👉 https://github.com/techthordev/angular-TheCompleteGuide-2025
 
 ---
 
 ### 🔸 Java Masterclass
 Java learning repository following Tim Buchalka’s “Java Masterclass 2025” course, including exercises, notes and small Java projects.
 
-👉 https://github.com/tfeydev/java-masterclass
+👉 https://github.com/techthordev/java-masterclass
 
 ---
 
