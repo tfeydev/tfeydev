@@ -1,102 +1,86 @@
-# 👋 Welcome to my Fullstack Development Space
+# 👋 Aspiring Full-Stack Developer
 
-I’m an IT professional transitioning into software development, combining years of technical support experience with hands-on training in backend, full-stack, and systems programming.
+### Java · Spring Boot · Angular · Rust
 
-My learning journey and real projects on **[TechhThor-Polyglot-Portal](https://techthordev.com.br)** — including coding progress, exercises, clean code practices, and DevOps techniques.
+IT support professional learning software development **in public**.
 
-My current focus is on:
-
-- **Java & Spring Boot** (APIs, Microservices, Clean Architecture)
-- **Angular & TypeScript**
-- **PostgreSQL & Linux/Fedora**
-- **Rust for systems programming**
-- **Docker for containerization and deployment workflows**
-
-I document my learning journey and real projects on TechThorDev — including coding progress, exercises, clean code practices, and DevOps techniques.
-All code from my builds and videos is available here on GitHub.
+I build real projects, document everything, and share the journey on
+👉 **[TechThorDev](https://techthordev.com.br)**
 
 ---
 
-## 🚀 Main Tech Stack (Daily Use)
+## 🎯 Current Focus
 
-| Category | Technologies | Purpose |
-| :--- | :--- | :--- |
-| **Backend** | `Java 25` · `Spring Boot 3/4` · `Maven` | REST APIs, microservices, business logic |
-| **Frontend** | `Angular 18–20` · `TypeScript` · `Tailwind` | Modern SPA development |
-| **DevOps** | `Docker` · `Docker Compose` | Local & production deployments |
-| **Database** | `PostgreSQL` · `SQL` | Persistence, migrations, schemas |
-| **Tools** | `IntelliJ IDEA` · `VSCode` · `Fedora Linux` | Daily development environment |
+* **Java & Spring Boot** — REST APIs, Clean Architecture
+* **Angular & TypeScript** — modern Single-Page Applications
+* **PostgreSQL & Docker** — production-ready setups
+* **Rust** — CLI tools & systems programming
 
----
-
-## 📂 Main Projects
-
-### 🔸 LeetCode – Java & PostgreSQL
-Daily problem-solving with Java and PostgreSQL, including a local PostgreSQL setup for LeetCode SQL problems.
-
-👉 https://github.com/techthordev/leetcode
+📌 *All code is public on GitHub.*
 
 ---
 
-### 🔸 Spring Boot REST APIs (Udemy Project)
-Spring Boot REST APIs following from Chad Darby & Eric Roby’s Udemy course.
+## 📱 Connect
 
-👉 https://github.com/techthordev/spring-boot-rest-apis
-
----
-
-### 🔸 Spring Boot REST APIs – Angular 21 UI
-Modern Angular 21 dashboard that replaces Swagger UI from Chad Darby & Eric Roby’s Spring Boot REST API Udemy course.
-
-👉 https://github.com/techthordev/spring-boot-apis-ui
+🌐 [TechThorDev](https://techthordev.com.br)
+💼 [LinkedIn](https://linkedin.com/in/thorstenfey)
+📸 [Instagram](https://instagram.com/techthordev)
 
 ---
 
-### 🔸 Angular – The Complete Guide Workspace
-Angular 21 workspace following Maximilian Schwarzmüller’s “Angular – The Complete Guide” Udemy course.
+## 🚀 Tech Stack
 
-👉 https://github.com/techthordev/angular-TheCompleteGuide-2025
-
----
-
-### 🔸 Java Masterclass
-Java learning repository following Tim Buchalka’s “Java Masterclass 2025” course, including exercises, notes and small Java projects.
-
-👉 https://github.com/techthordev/java-masterclass
+| Category     | Technologies                          | Focus                    |
+| :----------- | :------------------------------------ | :----------------------- |
+| **Backend**  | `Java` · `Spring Boot` · `Maven`      | REST APIs, Microservices |
+| **Frontend** | `Angular` · `TypeScript` · `Tailwind` | Modern SPAs              |
+| **DevOps**   | `Docker` · `Podman` · `PostgreSQL`    | Containers & Databases   |
+| **Systems**  | `Rust` · `Linux (Fedora)`             | CLI tools, Low-level     |
 
 ---
 
-# 💡 Want to Learn Java, Spring Boot, or Angular?
+## 📂 Featured Projects
 
-These are **the exact courses I personally use every day** to level up.  
-(When you buy via these links, I get a small commission — it helps me create more videos ❤️)
+### 🔸 [local-pg-images](https://github.com/techthordev/local-pg-images)
 
-### 🟦 Java — Complete Java Masterclass  
-Instructor: **Tim Buchalka**  
+Rust CLI that automatically syncs PostgreSQL versions
+*(local development ↔ Docker containers)*
 
-👉 https://www.udemy.com/course/java-the-complete-java-developer-course
+### 🔸 [LeetCode Solutions](https://github.com/techthordev/leetcode)
 
-### 🟦 Spring Boot — Spring & Hibernate for Beginners  
-Instructor: **Chad Darby**  
+Daily algorithm practice in **Java** plus **PostgreSQL queries**
 
-👉 https://www.udemy.com/course/spring-hibernate-tutorial
+### 🔸 [Spring Boot REST APIs](https://github.com/techthordev/spring-boot-rest-apis)
 
-### 🟩 Angular — The Complete Guide  
-Instructor: **Maximilian Schwarzmüller**  
+Production-ready REST APIs
+*(Chad Darby – Udemy course)*
 
-👉 https://www.udemy.com/course/the-complete-guide-to-angular-2
+### 🔸 [Angular Dashboard](https://github.com/techthordev/spring-boot-apis-ui)
 
----
+Angular 21 UI for Spring Boot APIs
+*(Swagger replacement)*
 
-## 📱 Follow My Daily Coding Journey
+### 🔸 [Java Masterclass](https://github.com/techthordev/java-masterclass)
 
-I post daily videos about Java, Spring Boot, Angular, Docker, PostgreSQL, and real-world fullstack development.
-
-🌐 TechThorDev → **[techthor-polyglot-portal](https://techthordev.github.io/techthor-polyglot-portal)**  
-📸 Instagram → **[@techthordev](https://instagram.com/techthordev)**  
-🧑‍💻 GitHub → **https://github.com/techthordev**  
-💼 LinkedIn → **https://linkedin.com/in/thorstenfey**
+Complete Java course with exercises
+*(Tim Buchalka)*
 
 ---
 
-### ⭐ If my projects help you, consider starring the repos — it supports my work!
+## 💡 Courses I Use Regularly
+
+* **Java** — [Complete Java Masterclass](https://www.udemy.com/course/java-the-complete-java-developer-course) · Tim Buchalka
+* **Spring Boot** — [Spring & Hibernate for Beginners](https://www.udemy.com/course/spring-hibernate-tutorial) · Chad Darby
+* **Angular** — [The Complete Guide](https://www.udemy.com/course/the-complete-guide-to-angular-2) · Maximilian Schwarzmüller
+
+---
+
+## ⭐ Support My Work
+
+If my projects help you:
+
+* ⭐ Star the repositories
+* 🔁 Share them with others
+* 👣 Follow my journey
+
+Every bit of support helps me stay motivated and keep building 🚀
