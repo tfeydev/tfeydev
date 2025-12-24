@@ -9,7 +9,7 @@ My current focus is on:
 - **Java & Spring Boot** (APIs, Microservices, Clean Architecture)
 - **Angular & TypeScript**
 - **PostgreSQL & Linux/Fedora**
-- **Rust for systems programming****
+- **Rust for systems programming**
 - **Docker for containerization and deployment workflows**
 
 I document my learning journey and real projects on TechThorDev — including coding progress, exercises, clean code practices, and DevOps techniques.
