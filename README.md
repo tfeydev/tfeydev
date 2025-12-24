@@ -1,4 +1,4 @@
-# 👋 Aspiring Full-Stack Developer
+# 👋 Aspiring Software Developer
 
 ### Java · Spring Boot · Angular · Rust
 
