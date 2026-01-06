@@ -1,6 +1,6 @@
 # 👋 Aspiring Software Developer
 
-### Java · Spring Boot · Angular · Rust
+### Java · Spring Boot · Python · FastAPI · React · Angular · Rust
 
 IT support professional learning software development **in public**.
 
