@@ -12,7 +12,7 @@ I build real projects, document everything, and share the journey on
 ## 🎯 Current Focus
 
 * **Java & Spring Boot** — REST APIs, Clean Architecture
-* **Angular & TypeScript** — modern Single-Page Applications
+* **React & TypeScript & Angular** — modern Single-Page Applications
 * **PostgreSQL & Docker** — production-ready setups
 * **Rust** — CLI tools & systems programming
 
@@ -33,7 +33,7 @@ I build real projects, document everything, and share the journey on
 | Category     | Technologies                          | Focus                    |
 | :----------- | :------------------------------------ | :----------------------- |
 | **Backend**  | `Java` · `Spring Boot` · `Maven`      | REST APIs, Microservices |
-| **Frontend** | `Angular` · `TypeScript` · `Tailwind` | Modern SPAs              |
+| **Frontend** | `React` · `TypeScript` · `Tailwind`   | Modern SPAs              |
 | **DevOps**   | `Docker` · `Podman` · `PostgreSQL`    | Containers & Databases   |
 | **Systems**  | `Rust` · `Linux (Fedora)`             | CLI tools, Low-level     |
 
