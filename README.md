@@ -20,25 +20,64 @@ Building production-ready REST APIs with:
 
 ## 🌟 Main Project: TechThorDev Platform
 
-**[TechThorDev.com.br](https://techthordev.com.br)** — My full-stack learning platform
+**[TechThorDev.com.br](https://techthordev.com.br)** — Production full-stack learning platform
 
-A complete ecosystem showcasing everything I've learned:
+A complete cloud-native ecosystem showcasing modern DevOps practices:
 
-- 🎯 **Main Site:** Portfolio & Blog ([techthordev.com.br](https://techthordev.com.br))
-- 📚 **Documentation:** Technical guides ([docs.techthordev.com.br](https://docs.techthordev.com.br))
+### 🌐 Live Applications
+
+- 🎯 **Main Portal:** Polyglot learning hub ([techthordev.com.br](https://techthordev.com.br))
+- 📚 **Documentation:** Technical guides & tutorials ([docs.techthordev.com.br](https://docs.techthordev.com.br))
 - 💻 **LeetCode Tracker:** Algorithm solutions ([leetcode.techthordev.com.br](https://leetcode.techthordev.com.br))
 
-**Tech Stack:**
-- Backend: Spring Boot REST APIs
-- Frontend: React/Angular
-- Database: PostgreSQL
-- Infrastructure: Docker/Podman
-- Hosting: [Your hosting solution]
+### ☁️ Infrastructure Architecture
 
-🔗 **Repositories:**
-- [Backend API](https://github.com/techthordev/spring-boot-rest-apis)
-- [Frontend UI](https://github.com/techthordev/spring-boot-apis-ui)
-- [Documentation](https://github.com/techthordev/techthordev-docs)
+```
+GitHub Repository
+       ↓
+GitHub Actions CI/CD
+       ↓
+Docker Build & Push
+       ↓
+Google Cloud Run (Nginx Reverse Proxy)
+       ↓
+    ┌──────────────┼──────────────┐
+    ↓              ↓              ↓
+Firebase      Firebase      Firebase
+Hosting       Hosting       Hosting
+(Portal)      (Docs)     (LeetCode)
+    ↓              ↓              ↓
+    └──────────────┴──────────────┘
+                   ↓
+            Supabase PostgreSQL
+         (Auth + Database)
+```
+
+### 🛠️ Production Stack
+
+**Frontend Layer:**
+- Next.js 15 · React 19 · TypeScript
+- Docusaurus (documentation)
+- Tailwind CSS
+- Deployed on Firebase Hosting (6 sites)
+
+**Backend Layer:**
+- Spring Boot 4 REST APIs
+- Nginx reverse proxy (Cloud Run)
+- Supabase (PostgreSQL + Auth)
+
+**DevOps & Infrastructure:**
+- ⚡ Google Cloud Run (auto-scaling containers)
+- 🔥 Firebase Hosting (multi-site CDN)
+- 🔄 GitHub Actions (automated CI/CD)
+- 🐳 Docker containerization
+- 🔍 Cloud Monitoring & Observability
+
+### 📦 Repositories
+
+- [Polyglot Portal](https://github.com/techthordev/techthor-polyglot-portal) — Next.js main platform
+- [Docusaurus Docs](https://github.com/techthordev/techthor-docusaurus-docs) — Technical documentation
+- [Cloud Run Nginx Proxy](https://github.com/techthordev/cloudrun-nginx-proxy) — Custom routing layer
 
 ---
 
@@ -58,18 +97,27 @@ Following **Chad Darby's Spring Boot Course**, adapted for PostgreSQL:
 
 ## 🛠️ Tech Stack
 
-**Backend Focus:**
+### Backend & APIs
 - Java 25 · Spring Boot 4 · Maven
 - PostgreSQL 18 · Hibernate/JPA
-- Docker · Podman · Linux (Fedora)
+- Supabase (Auth + Database)
 
-**Frontend:**
-- React · TypeScript · Angular
-- Tailwind CSS
+### Frontend & UI
+- Next.js 15 · React 19 · TypeScript
+- Tailwind CSS · shadcn/ui
+- Docusaurus (documentation)
 
-**Also exploring:**
-- Rust (CLI tools & systems programming)
-- SQL (LeetCode practice)
+### DevOps & Cloud
+- Google Cloud Run · Firebase Hosting
+- Docker · Podman
+- GitHub Actions (CI/CD)
+- Nginx (reverse proxy)
+- Linux (Fedora)
+
+### Currently Learning
+- Rust (systems programming & CLI tools)
+- Microservices architecture
+- Advanced SQL & database optimization
 
 ---
 
@@ -78,10 +126,6 @@ Following **Chad Darby's Spring Boot Course**, adapted for PostgreSQL:
 ### [Spring Boot for Beginners](https://github.com/techthordev/spring-boot-for-beginners)
 Complete Spring Boot course implementation with PostgreSQL & Podman  
 *Hibernate/JPA · DAO Pattern · REST APIs*
-
-### [Spring Boot REST APIs](https://github.com/techthordev/spring-boot-rest-apis)
-Production-ready REST API backend for TechThorDev platform  
-*CRUD Operations · Exception Handling · Clean Architecture*
 
 ### [Java Masterclass](https://github.com/techthordev/java-masterclass)
 Core Java fundamentals and advanced concepts  
