@@ -1,86 +1,71 @@
-# 👋 Aspiring Software Developer
+# 🚀 IT Professional → Java Backend Developer
 
-### Java · Spring Boot · Python · FastAPI · React · Angular · Rust
-
-IT support professional learning software development **in public**.
-
-I build real projects, document everything, and share the journey on
-👉 **[TechThorDev](https://techthordev.com.br)**
+**Current:** IT Support Specialist  
+**Learning:** Enterprise Java Development with Spring Boot  
+**Sharing:** Everything at [TechThorDev.com.br](https://techthordev.com.br)
 
 ---
 
-## 🎯 Current Focus
+## 🎯 Focus: Spring Boot Backend Development
 
-* **Java & Spring Boot** — REST APIs, Clean Architecture
-* **React & TypeScript & Angular** — modern Single-Page Applications
-* **PostgreSQL & Docker** — production-ready setups
-* **Rust** — CLI tools & systems programming
+Building production-ready REST APIs with:
+- ✅ Spring Boot 4 & Java 25
+- ✅ PostgreSQL 18 & JPA/Hibernate
+- ✅ Clean Architecture & Best Practices
+- ✅ Docker/Podman for deployment
 
-📌 *All code is public on GitHub.*
-
----
-
-## 📱 Connect
-
-🌐 [TechThorDev](https://techthordev.com.br)
-💼 [LinkedIn](https://linkedin.com/in/thorstenfey)
-📸 [Instagram](https://instagram.com/techthordev)
+📝 **I document my entire learning journey** — from beginner mistakes to working solutions.
 
 ---
 
-## 🚀 Tech Stack
+## 📚 Current Learning Path
 
-| Category     | Technologies                          | Focus                    |
-| :----------- | :------------------------------------ | :----------------------- |
-| **Backend**  | `Java` · `Spring Boot` · `Maven`      | REST APIs, Microservices |
-| **Frontend** | `React` · `TypeScript` · `Tailwind`   | Modern SPAs              |
-| **DevOps**   | `Docker` · `Podman` · `PostgreSQL`    | Containers & Databases   |
-| **Systems**  | `Rust` · `Linux (Fedora)`             | CLI tools, Low-level     |
+Following **Chad Darby's Spring Boot Course**, adapted for PostgreSQL:
 
----
+- [x] Spring Core & Dependency Injection
+- [x] Hibernate/JPA CRUD Operations  
+- [ ] REST API Development
+- [ ] Spring Security
+- [ ] Microservices Architecture
 
-## 📂 Featured Projects
-
-### 🔸 [local-pg-images](https://github.com/techthordev/local-pg-images)
-
-Rust CLI that automatically syncs PostgreSQL versions
-*(local development ↔ Docker containers)*
-
-### 🔸 [LeetCode Solutions](https://github.com/techthordev/leetcode)
-
-Daily algorithm practice in **Java** plus **PostgreSQL queries**
-
-### 🔸 [Spring Boot REST APIs](https://github.com/techthordev/spring-boot-rest-apis)
-
-Production-ready REST APIs
-*(Chad Darby – Udemy course)*
-
-### 🔸 [Angular Dashboard](https://github.com/techthordev/spring-boot-apis-ui)
-
-Angular 21 UI for Spring Boot APIs
-*(Swagger replacement)*
-
-### 🔸 [Java Masterclass](https://github.com/techthordev/java-masterclass)
-
-Complete Java course with exercises
-*(Tim Buchalka)*
+🔗 **All code public:** [github.com/techthordev](https://github.com/techthordev)
 
 ---
 
-## 💡 Courses I Use Regularly
+## 🛠️ Tech Stack
 
-* **Java** — [Complete Java Masterclass](https://www.udemy.com/course/java-the-complete-java-developer-course) · Tim Buchalka
-* **Spring Boot** — [Spring & Hibernate for Beginners](https://www.udemy.com/course/spring-hibernate-tutorial) · Chad Darby
-* **Angular** — [The Complete Guide](https://www.udemy.com/course/the-complete-guide-to-angular-2) · Maximilian Schwarzmüller
+**Backend Focus:**
+- Java 25 · Spring Boot 4 · Maven
+- PostgreSQL 18 · Hibernate/JPA
+- Docker · Podman · Linux (Fedora)
+
+**Also exploring:**
+- Rust (CLI tools)
+- SQL (LeetCode practice)
 
 ---
 
-## ⭐ Support My Work
+## 📂 Active Projects
 
-If my projects help you:
+### [Spring Boot for Beginners](https://github.com/techthordev/spring-boot-for-beginners)
+Complete Spring Boot course implementation with PostgreSQL & Podman
 
-* ⭐ Star the repositories
-* 🔁 Share them with others
-* 👣 Follow my journey
+### [LeetCode Daily](https://github.com/techthordev/leetcode)
+Algorithm practice in Java + SQL challenges
 
-Every bit of support helps me stay motivated and keep building 🚀
+### [PostgreSQL Docker CLI](https://github.com/techthordev/local-pg-images)
+Rust tool for managing PostgreSQL container versions
+
+---
+
+## 🌐 Find Me
+
+🎓 [TechThorDev.com.br](https://techthordev.com.br) — Learning blog & tutorials  
+💼 [LinkedIn](https://linkedin.com/in/thorstenfey)  
+📸 [Instagram](https://instagram.com/techthordev)  
+
+📍 Natal, Brazil
+
+---
+
+**⭐ Star my repos if they help you learn!**
