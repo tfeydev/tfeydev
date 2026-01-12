@@ -50,10 +50,13 @@ Following **Chad Darby's Spring Boot Course**, adapted for PostgreSQL:
 ### [Spring Boot for Beginners](https://github.com/techthordev/spring-boot-for-beginners)
 Complete Spring Boot course implementation with PostgreSQL & Podman
 
-### [LeetCode Daily](https://github.com/techthordev/leetcode)
+### [Java Masterclass](https://github.com/techthordev/java-masterclass)
+Core Java
+
+### [LeetCode](https://github.com/techthordev/leetcode)
 Algorithm practice in Java + SQL challenges
 
-### [PostgreSQL Docker CLI](https://github.com/techthordev/local-pg-images)
+### [PostgreSQL Podman Docker CLI](https://github.com/techthordev/local-pg-images)
 Rust tool for managing PostgreSQL container versions
 
 ---
