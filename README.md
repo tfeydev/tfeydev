@@ -1,178 +1,179 @@
-# 🚀 IT Professional → Java Backend Developer
+# 🚀 IT Professional → Backend Engineer (Java / Spring Boot)
 
-**Current:** IT Support Specialist  
-**Learning:** Enterprise Java Development with Spring Boot  
-**Building:** Full-Stack Platform at [TechThorDev.com.br](https://techthordev.com.br)
+**Current Role:** IT Support Specialist  
+**Focus:** Java Backend Engineering with Spring Boot  
+**What I do:** Design, build, and deploy production-ready backend systems while transitioning into a full-time backend role.
+
+This repository space showcases **real-world backend projects**, cloud deployments, and infrastructure — not just tutorials.
 
 ---
 
-## 🎯 Focus: Spring Boot Backend Development
+## 🎯 Backend Focus: Spring Boot & Cloud-Native APIs
 
-Building production-ready REST APIs with:
-- ✅ Spring Boot 4 & Java 25
-- ✅ PostgreSQL 18 & JPA/Hibernate
-- ✅ Clean Architecture & Best Practices
-- ✅ Docker/Podman for deployment
+Building and operating RESTful backend services with:
 
-📝 **I document my entire learning journey** — from beginner mistakes to working solutions.
+- Java & Spring Boot
+- PostgreSQL & JPA/Hibernate
+- Clean Architecture & backend best practices
+- Docker / Podman containerization
+- CI/CD pipelines and cloud deployments
+
+I focus on **hands-on implementation**, real deployments, and maintainable system design.
 
 ---
 
 ## 🌟 Main Project: TechThorDev Platform
 
-**[TechThorDev.com.br](https://techthordev.com.br)** — Production full-stack learning platform
+🌍 **https://techthordev.com.br**
 
-A complete cloud-native ecosystem showcasing modern DevOps practices:
+A production-ready full-stack platform used as a learning, experimentation, and documentation environment for modern backend and DevOps practices.
 
 ### 🌐 Live Applications
 
-- 🎯 **Main Portal:** Polyglot learning hub ([techthordev.com.br](https://techthordev.com.br))
-- 📚 **Documentation:** Technical guides & tutorials ([docs.techthordev.com.br](https://docs.techthordev.com.br))
-- 💻 **LeetCode Tracker:** Algorithm solutions ([leetcode.techthordev.com.br](https://leetcode.techthordev.com.br))
+- 🎯 **Main Portal** – Polyglot learning platform  
+  https://techthordev.com.br
+- 📚 **Documentation** – Technical guides & architecture notes  
+  https://docs.techthordev.com.br
+- 💻 **LeetCode Tracker** – Algorithm & SQL solutions  
+  https://leetcode.techthordev.com.br
 
-### ☁️ Infrastructure Architecture
+---
+
+## ☁️ Infrastructure & Architecture
 
 ```
-GitHub Repository
-       ↓
-GitHub Actions CI/CD
-       ↓
-Docker Build & Push
-       ↓
+
+GitHub Repositories
+↓
+GitHub Actions (CI/CD)
+↓
+Docker Build & Registry
+↓
 Google Cloud Run (Nginx Reverse Proxy)
-       ↓
-    ┌──────────────┼──────────────┐
-    ↓              ↓              ↓
-Firebase      Firebase      Firebase
-Hosting       Hosting       Hosting
-(Portal)      (Docs)     (LeetCode)
-    ↓              ↓              ↓
-    └──────────────┴──────────────┘
-                   ↓
-            Supabase PostgreSQL
-         (Auth + Database)
+↓
+┌──────────────┼──────────────┐
+↓              ↓              ↓
+Firebase        Firebase        Firebase
+Hosting         Hosting         Hosting
+(Portal)        (Docs)       (LeetCode)
+↓              ↓              ↓
+└──────────────┴──────────────┘
+↓
+Supabase PostgreSQL
+(Authentication & Database)
+
 ```
 
-### 🛠️ Production Stack
+This setup reflects a **cloud-native, production-style workflow** with automated deployments and scalable services.
 
-**Frontend Layer:**
-- Angular 21 (main platform)
-- Compodoc (API documentation)
-- Docusaurus (technical guides)
+---
+
+## 🛠️ Production Stack
+
+### Backend
+- Java · Spring Boot (REST APIs)
+- PostgreSQL · JPA / Hibernate
+- Supabase (Auth & Database)
+- Nginx (reverse proxy)
+
+### Frontend
+- Angular (main platform)
 - TypeScript · Tailwind CSS
-- Deployed on Firebase Hosting (6 sites)
-
-**Backend Layer:**
-- Spring Boot 4 REST APIs
-- Nginx reverse proxy (Cloud Run)
-- Supabase (PostgreSQL + Auth)
-
-**DevOps & Infrastructure:**
-- ⚡ Google Cloud Run (auto-scaling containers)
-- 🔥 Firebase Hosting (multi-site CDN)
-- 🔄 GitHub Actions (automated CI/CD)
-- 🐳 Docker containerization
-- 🔍 Cloud Monitoring & Observability
-
-### 📦 Repositories
-
-- [Polyglot Portal](https://github.com/techthordev/techthor-polyglot-portal) — Angular 21 main platform
-- [Docusaurus Docs](https://github.com/techthordev/techthor-docusaurus-docs) — Technical guides & tutorials
-- [Cloud Run Nginx Proxy](https://github.com/techthordev/cloudrun-nginx-proxy) — Custom routing layer
-
-**Documentation:**
-- API Docs: Compodoc (Angular components & services)
-- Tech Guides: Docusaurus (tutorials & how-tos)
-
----
-
-## 📚 Current Learning Path
-
-Following **Chad Darby's Spring Boot Course**, adapted for PostgreSQL:
-
-- [x] Spring Core & Dependency Injection
-- [x] Hibernate/JPA CRUD Operations  
-- [ ] REST API Development
-- [ ] Spring Security
-- [ ] Microservices Architecture
-
-🔗 **All code public:** [github.com/techthordev](https://github.com/techthordev)
-
----
-
-## 🛠️ Tech Stack
-
-### Backend & APIs
-- Java 25 · Spring Boot 4 · Maven
-- PostgreSQL 18 · Hibernate/JPA
-- Supabase (Auth + Database)
-
-### Frontend & UI
-- Angular 21 · TypeScript · Angular Material
-- Compodoc (API docs)
-- Docusaurus (technical guides)
-- Tailwind CSS
-
-### Planning / Future
-- Next.js · React (evaluating for future projects)
+- Docusaurus (technical documentation)
+- Compodoc (API documentation)
 
 ### DevOps & Cloud
-- Google Cloud Run · Firebase Hosting
-- Docker · Podman
+- Google Cloud Run (containerized services)
+- Firebase Hosting (multi-site CDN)
+- Docker & Podman
 - GitHub Actions (CI/CD)
-- Nginx (reverse proxy)
 - Linux (Fedora)
 
-### Currently Learning
-- Rust (systems programming & CLI tools)
+---
+
+## 📦 Key Repositories
+
+- **Polyglot Portal**  
+  Angular-based frontend platform  
+  https://github.com/techthordev/techthor-polyglot-portal
+
+- **Docusaurus Docs**  
+  Architecture notes, tutorials, and guides  
+  https://github.com/techthordev/techthor-docusaurus-docs
+
+- **Cloud Run Nginx Proxy**  
+  Reverse proxy & routing layer  
+  https://github.com/techthordev/cloudrun-nginx-proxy
+
+---
+
+## 📂 Backend & Learning Projects
+
+### Spring Boot for Beginners
+https://github.com/techthordev/spring-boot-for-beginners  
+Spring Boot backend project using PostgreSQL & containerized environments  
+*REST APIs · Hibernate/JPA · DAO pattern*
+
+### Java Masterclass
+https://github.com/techthordev/java-masterclass  
+Core Java fundamentals and advanced concepts
+
+### LeetCode Daily
+https://github.com/techthordev/leetcode  
+Algorithms and SQL challenges in Java
+
+### PostgreSQL Podman CLI
+https://github.com/techthordev/local-pg-images  
+Rust-based CLI tool for managing PostgreSQL container versions  
+*DevOps tooling & systems programming*
+
+---
+
+## 📚 Background & Continuous Improvement
+
+My backend foundations are built on structured Spring Boot training and extended through:
+
+- PostgreSQL-first implementations
+- Containerized & cloud deployments
+- CI/CD automation
+- Real production-style environments
+
+I continuously refine my skills through real projects, code reviews, and system design exploration.
+
+---
+
+## 🧠 Currently Expanding Skills
+
+- Spring Security & authentication
+- Backend testing & observability
 - Microservices architecture
 - Advanced SQL & database optimization
+- Rust for backend tooling
 
 ---
 
-## 📂 Learning Projects
+## 🌐 Connect
 
-### [Spring Boot for Beginners](https://github.com/techthordev/spring-boot-for-beginners)
-Complete Spring Boot course implementation with PostgreSQL & Podman  
-*Hibernate/JPA · DAO Pattern · REST APIs*
+- 🌍 Platform: https://techthordev.com.br
+- 📚 Docs: https://docs.techthordev.com.br
+- 💻 Code: https://github.com/techthordev
+- 💼 LinkedIn: https://linkedin.com/in/thorstenfey
 
-### [Java Masterclass](https://github.com/techthordev/java-masterclass)
-Core Java fundamentals and advanced concepts  
-*Tim Buchalka's Complete Java Course*
-
-### [LeetCode Daily](https://github.com/techthordev/leetcode)
-Algorithm practice in Java + SQL challenges  
-*Data Structures · Algorithms · Database Queries*
-
-### [PostgreSQL Podman CLI](https://github.com/techthordev/local-pg-images)
-Rust CLI tool for managing PostgreSQL container versions  
-*Systems Programming · DevOps Tooling*
+📍 Natal, Rio Grande do Norte, Brazil  
+🌍 Open to remote backend opportunities
 
 ---
 
-## 🌐 Connect With Me
+## 💡 Why Everything Is Public
 
-🌍 **[TechThorDev.com.br](https://techthordev.com.br)** — Full-stack platform & blog  
-📚 **[docs.techthordev.com.br](https://docs.techthordev.com.br)** — Technical documentation  
-💻 **[leetcode.techthordev.com.br](https://leetcode.techthordev.com.br)** — Algorithm solutions
+I believe in **learning and building in public**.
 
-💼 [LinkedIn](https://linkedin.com/in/thorstenfey)  
-📸 [Instagram](https://instagram.com/techthordev)  
-
-📍 Natal, Rio Grande do Norte, Brazil
+By sharing architecture decisions, implementations, and mistakes:
+- I improve faster through feedback
+- Others can learn from real examples
+- My progress is transparent and verifiable
 
 ---
 
-## 💡 Why I Share Everything
-
-I believe in **learning in public**. Every project, every mistake, every solution is documented and shared because:
-
-- 📖 Teaching solidifies learning
-- 🤝 Community feedback makes me better
-- 🚀 My journey might help someone else
-
----
-
-**⭐ Star my repos if they help you learn!**  
-**🔁 Share them if you find them useful!**  
-**👣 Follow my journey on [TechThorDev.com.br](https://techthordev.com.br)**
+⭐ If any repository helps you, feel free to star it.  
+🔁 Feedback and suggestions are always welcome.
