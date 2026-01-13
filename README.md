@@ -57,9 +57,9 @@ Hosting       Hosting       Hosting
 
 **Frontend Layer:**
 - Angular 21 (main platform)
-- Planning: Next · React (documentation & sub-projects)
+- Compodoc (API documentation)
+- Docusaurus (technical guides)
 - TypeScript · Tailwind CSS
-- Docusaurus (technical docs)
 - Deployed on Firebase Hosting (6 sites)
 
 **Backend Layer:**
@@ -76,9 +76,13 @@ Hosting       Hosting       Hosting
 
 ### 📦 Repositories
 
-- [Polyglot Portal](https://github.com/techthordev/techthor-polyglot-portal) — Next.js main platform
-- [Docusaurus Docs](https://github.com/techthordev/techthor-docusaurus-docs) — Technical documentation
+- [Polyglot Portal](https://github.com/techthordev/techthor-polyglot-portal) — Angular 21 main platform
+- [Docusaurus Docs](https://github.com/techthordev/techthor-docusaurus-docs) — Technical guides & tutorials
 - [Cloud Run Nginx Proxy](https://github.com/techthordev/cloudrun-nginx-proxy) — Custom routing layer
+
+**Documentation:**
+- API Docs: Compodoc (Angular components & services)
+- Tech Guides: Docusaurus (tutorials & how-tos)
 
 ---
 
@@ -104,10 +108,13 @@ Following **Chad Darby's Spring Boot Course**, adapted for PostgreSQL:
 - Supabase (Auth + Database)
 
 ### Frontend & UI
-- Angular · Angular Material
-- Planning: Next · React · TypeScript
+- Angular 21 · TypeScript · Angular Material
+- Compodoc (API docs)
+- Docusaurus (technical guides)
 - Tailwind CSS
-- Docusaurus (documentation)
+
+### Planning / Future
+- Next.js · React (evaluating for future projects)
 
 ### DevOps & Cloud
 - Google Cloud Run · Firebase Hosting
