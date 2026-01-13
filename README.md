@@ -57,7 +57,7 @@ Hosting       Hosting       Hosting
 
 **Frontend Layer:**
 - Angular 21 (main platform)
-- Next.js 15 · React 19 (documentation & sub-projects)
+- Planning: Next · React (documentation & sub-projects)
 - TypeScript · Tailwind CSS
 - Docusaurus (technical docs)
 - Deployed on Firebase Hosting (6 sites)
