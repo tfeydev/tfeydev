@@ -104,8 +104,9 @@ Following **Chad Darby's Spring Boot Course**, adapted for PostgreSQL:
 - Supabase (Auth + Database)
 
 ### Frontend & UI
-- Next.js 15 · React 19 · TypeScript
-- Tailwind CSS · shadcn/ui
+- Angular · Angular Material
+- Planning: Next · React · TypeScript
+- Tailwind CSS
 - Docusaurus (documentation)
 
 ### DevOps & Cloud
